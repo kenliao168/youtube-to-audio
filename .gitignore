@@ -1,0 +1,30 @@
+# Dependencies
+node_modules
+
+# Build outputs
+dist
+
+# Downloads
+downloads
+
+# Audio files
+*.mp3
+*.m4a
+*.wav
+*.opus
+
+# Logs
+*.log
+
+# yt-dlp executable (users should download their own)
+yt-dlp.exe
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
